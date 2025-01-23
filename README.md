@@ -15,7 +15,7 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Que es una DB.
   - Tipos de motores que soportan el lenguaje SQL.
   - Descarga e instalación de Microsoft SQL Server 2022 Express Edition.
-
+  - Descarga e instalación de Sql management studio.
 
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
