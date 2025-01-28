@@ -17,6 +17,22 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Descarga e instalación de Microsoft SQL Server 2022 Express Edition.
   - Descarga e instalación de Sql management studio.
 
+### 🗂 Clases con Código Incluido
+
+- **Clase 02: Introducción a la gestion de bases de datos, tipos de datos, operaciónes básicas.**
+  - Explicación de tipos de datos.
+  - commandos básicos.
+  - Restricciónes.
+  - Creación de primera DB.
+  - Creación de primera tabla.
+  - Alteración de table con commando ALTER.
+  - Eliminación de campos y tablas.
+
+  -Ejercicio: Crear una tabla Clientes con los campos: ClienteID, Nombre, Email, FechaRegistro.
+  - Modificar la tabla, agregar la columna Telefono, cambiar el tipo de dato de Email para que 
+  -acepte mas caracteres.
+  -Eliminar la tabla, usando drop table.
+
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
