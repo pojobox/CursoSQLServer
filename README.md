@@ -19,8 +19,7 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
 
 ### 🗂 Clases con Código Incluido
 
-- **Clase 02: Introducción a la gestion de bases de datos, tipos de datos, operaciónes básicas.
-**
+- **Clase 02: Introducción a la gestion de bases de datos, tipos de datos, operaciónes básicas.**
   - Explicación de tipos de datos.
   - commandos básicos.
   - Restricciónes.
