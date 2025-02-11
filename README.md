@@ -51,18 +51,18 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - ORDER BY - Ordenar los resultados (ascendente o descendente).
   - TOP - Limitar la cantidad de registros devueltos.
 
---Ejercicio
-  --1: Crear la tabla Clientes
-  --2: Insertar datos de prueba(recuerden leer primero todos los pasos antes de empezar para saber que datos deben insertar).
-  --3:Clausulas
-  --A) Usar SELECT para traer el campo Nombre de la tabla Clientes.
-  --B) Usar WHERE para crear la condición que traiga solamente el nombre que empiece con A (Pista pueden usar %).
-  --C) Usar ORDER BY con la tabla Productos para ordenar los precios de mayor a menor.
-  --D) Usar TOP para traer los 5 primeros datos de la tabla productos que cumplan con la clausula Precio >= 3500.
-  --4:Usar ALTER TABLE para:
-  --A) Agregar una nueva columna a elección a la tabla Clientes.
-  --B) Modificar el tipo de datos de una columna de la tabla Clientes a elección.
-  --C) Eliminar una columna de la tabla Clientes a elección.
+-Ejercicio
+  -1: Crear la tabla Clientes
+  -2: Insertar datos de prueba(recuerden leer primero todos los pasos antes de empezar para saber que datos deben insertar).
+  -3:Clausulas
+  -A) Usar SELECT para traer el campo Nombre de la tabla Clientes.
+  -B) Usar WHERE para crear la condición que traiga solamente el nombre que empiece con A (Pista pueden usar %).
+  -C) Usar ORDER BY con la tabla Productos para ordenar los precios de mayor a menor.
+  -D) Usar TOP para traer los 5 primeros datos de la tabla productos que cumplan con la clausula Precio >= 3500.
+  -4:Usar ALTER TABLE para:
+  -A) Agregar una nueva columna a elección a la tabla Clientes.
+  -B) Modificar el tipo de datos de una columna de la tabla Clientes a elección.
+  -C) Eliminar una columna de la tabla Clientes a elección.
 
 - **Quiero felicitarte porque acabas determinar el primer módulo de este curso de SQL server, seguí practicando y jugando con lo aprendido y yo te veo en el próximo modulo ;-).**
   
