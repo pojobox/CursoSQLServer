@@ -37,7 +37,7 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Cómo insertar registros en una tabla con INSERT INTO.
   - Modificar datos existentes usando UPDATE.
   - Eliminar registros de forma controlada con DELETE.
-  -Vaciar completamente una tabla con TRUNCATE TABLE.
+  - Vaciar completamente una tabla con TRUNCATE TABLE.
   
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
