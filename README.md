@@ -33,6 +33,12 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   -acepte mas caracteres.
   -Eliminar la tabla, usando drop table.
 
+- **Clase 03: Operaciónes con datos (Crud Básico).**
+  - Cómo insertar registros en una tabla con INSERT INTO.
+  - Modificar datos existentes usando UPDATE.
+  - Eliminar registros de forma controlada con DELETE.
+  -Vaciar completamente una tabla con TRUNCATE TABLE.
+  
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
