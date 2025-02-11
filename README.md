@@ -64,7 +64,7 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - B) Modificar el tipo de datos de una columna de la tabla Clientes a elección.
   - C) Eliminar una columna de la tabla Clientes a elección.
 
-- **Quiero felicitarte porque acabas determinar el primer módulo de este curso de SQL server, seguí practicando y jugando con lo aprendido y yo te veo en el próximo modulo ;-).**
+- **Quiero felicitarte porque acabas determinar el primer módulo de este curso de SQL server, seguí practicando y jugando con lo aprendido y yo te veo en el próximo módulo ;-).**
   
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
