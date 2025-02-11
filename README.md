@@ -39,7 +39,7 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Eliminar registros de forma controlada con DELETE.
   - Vaciar completamente una tabla con TRUNCATE TABLE.
 
-  - Ejercicio: Crear una tabla Clientes con los campos: Nombre, Apellido, Telefono, Email,Direccion(Pueden elegir los tipos de datos y tamaños).
+- Ejercicio: Crear una tabla Clientes con los campos: Nombre, Apellido, Telefono, Email,Direccion(Pueden elegir los tipos de datos y tamaños).
   - A continuación insertar 10 datos a elección.
   - Updatear el registro que tenga el id 1 y cambiarle algún valor que ustedes quieran.
   - Eliminar el registro que tenga el id 5 y por ultimo limpiar la tabla con truncate.
