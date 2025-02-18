@@ -33,7 +33,39 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   -acepte mas caracteres.
   -Eliminar la tabla, usando drop table.
 
+- **Clase 03: Operaciónes con datos (Crud Básico).**
+  - Cómo insertar registros en una tabla con INSERT INTO.
+  - Modificar datos existentes usando UPDATE.
+  - Eliminar registros de forma controlada con DELETE.
+  - Vaciar completamente una tabla con TRUNCATE TABLE.
 
+- Ejercicio: Crear una tabla Clientes con los campos: Nombre, Apellido, Telefono, Email,Direccion(Pueden elegir los tipos de datos y tamaños).
+  - A continuación insertar 10 datos a elección.
+  - Updatear el registro que tenga el id 1 y cambiarle algún valor que ustedes quieran.
+  - Eliminar el registro que tenga el id 5 y por ultimo limpiar la tabla con truncate.
+  - para verificar que el truncate funciono pueden insertar un nuevo dato y verificar que se reiniciaron los ID.
+
+- **Clase 04: Consultas_y_Filtros.**
+  - SELECT - Obtener información de una tabla.
+  - WHERE - Aplicar filtros con condiciones.
+  - ORDER BY - Ordenar los resultados (ascendente o descendente).
+  - TOP - Limitar la cantidad de registros devueltos.
+
+- Ejercicio:
+  - 1: Crear la tabla Clientes
+  - 2: Insertar datos de prueba(recuerden leer primero todos los pasos antes de empezar para saber que datos deben insertar).
+  - 3: Clausulas:
+  - A) Usar SELECT para traer el campo Nombre de la tabla Clientes.
+  - B) Usar WHERE para crear la condición que traiga solamente el nombre que empiece con A (Pista pueden usar %).
+  - C) Usar ORDER BY con la tabla Productos para ordenar los precios de mayor a menor.
+  - D) Usar TOP para traer los 5 primeros datos de la tabla productos que cumplan con la clausula Precio >= 3500.
+  - 4: Usar ALTER TABLE para:
+  - A) Agregar una nueva columna a elección a la tabla Clientes.
+  - B) Modificar el tipo de datos de una columna de la tabla Clientes a elección.
+  - C) Eliminar una columna de la tabla Clientes a elección.
+
+- **Quiero felicitarte porque acabas determinar el primer módulo de este curso de SQL server, seguí practicando y jugando con lo aprendido y yo te veo en el próximo módulo ;-).**
+  
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
 
