@@ -65,6 +65,14 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - C) Eliminar una columna de la tabla Clientes a elección.
 
 - **Quiero felicitarte porque acabas determinar el primer módulo de este curso de SQL server, seguí practicando y jugando con lo aprendido y yo te veo en el próximo módulo ;-).**
+
+### BIENVENIDOS AL MODULO INTERMEDIO!!!
+
+- **Clase 01: Tipos de Relaciónes.**
+  - Claves Primarias y Foráneas → Qué son, para qué sirven y cómo se crean en SQL Server.
+  - Tipos de Relaciones → Uno a uno (1:1), uno a muchos (1:N) y muchos a muchos (M:N), con ejemplos bien claros.
+  - Ejemplo Práctico → Vamos a crear tablas con relaciones y ver cómo conectar los datos con FOREIGN KEY.
+
   
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
