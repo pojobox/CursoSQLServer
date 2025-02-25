@@ -73,7 +73,12 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Tipos de Relaciones → Uno a uno (1:1), uno a muchos (1:N) y muchos a muchos (M:N), con ejemplos bien claros.
   - Ejemplo Práctico → Vamos a crear tablas con relaciones y ver cómo conectar los datos con FOREIGN KEY.
 
-  
+- **Clase 02: Consultas avanzadas (JOINS).**
+  - INNER JOIN → Une registros de ambas tablas solo cuando hay coincidencia.
+  - LEFT JOIN → Devuelve todos los registros de la tabla izquierda, aunque no haya coincidencias en la derecha.
+  - RIGHT JOIN → Devuelve todos los registros de la tabla derecha, aunque no haya coincidencias en la izquierda.
+  - FULL JOIN → Devuelve todos los registros de ambas tablas, con NULL donde no haya coincidencias.
+    
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
 
