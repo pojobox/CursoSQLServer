@@ -83,6 +83,16 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Subconsulta en la cláusula WHERE: Filtrar registros con condiciones avanzadas.
   - Subconsulta en la cláusula SELECT: Calcular valores adicionales en una consulta.
 
+- **Clase 04: Consultas avanzadas 3 (Funciones de agregado).**
+  - COUNT(): Cuenta el número total de registros en una tabla.
+  - SUM(): Calcula la suma de los valores en una columna numérica.
+  - AVG(): Obtiene el promedio de los valores en una columna.
+  - MIN() y MAX(): Encuentran el valor mínimo y máximo en un conjunto de datos.
+  - Ejemplos practicos:
+  - Contar la cantidad de pedidos en la tabla Pedidos.
+  - Calcular el total de ventas sumando los precios de los productos.
+  - Obtener el precio promedio de los productos en stock.
+  - Encontrar el precio más bajo y más alto de una lista de productos.
  
   
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
