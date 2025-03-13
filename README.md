@@ -78,7 +78,13 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - LEFT JOIN → Devuelve todos los registros de la tabla izquierda, aunque no haya coincidencias en la derecha.
   - RIGHT JOIN → Devuelve todos los registros de la tabla derecha, aunque no haya coincidencias en la izquierda.
   - FULL JOIN → Devuelve todos los registros de ambas tablas, con NULL donde no haya coincidencias.
-    
+
+- **Clase 03: Consultas avanzadas 2 (SubQueries).**
+  - Subconsulta en la cláusula WHERE: Filtrar registros con condiciones avanzadas.
+  - Subconsulta en la cláusula SELECT: Calcular valores adicionales en una consulta.
+
+ 
+  
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
 
