@@ -94,7 +94,18 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Obtener el precio promedio de los productos en stock.
   - Encontrar el precio más bajo y más alto de una lista de productos.
  
-  
+- **Clase 05: Consultas avanzadas 4 (Agrupamiento de Datos).**
+  - GROUP BY: Agrupa registros con valores idénticos en columnas seleccionadas.
+  - HAVING: Filtra grupos de datos después de aplicar GROUP BY, similar a WHERE.
+  - Funciones de agregado: COUNT(), SUM(), y más en combinación con GROUP BY.
+  - Consultas avanzadas: Uso de INNER JOIN para combinar información de múltiples tablas.
+  - Ejemplos prácticos con código SQL:
+  - Contar la cantidad de pedidos por cliente.
+  - Filtrar clientes que hayan realizado más de 2 pedidos.
+  - Obtener el total gastado por cada cliente en sus pedidos.
+  - Crear un reporte avanzado con clientes, pedidos y productos.
+ 
+
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
 
