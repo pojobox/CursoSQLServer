@@ -105,6 +105,17 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Obtener el total gastado por cada cliente en sus pedidos.
   - Crear un reporte avanzado con clientes, pedidos y productos.
  
+- **Clase 06: Índices en SQL**
+  - ¿Qué son los índices en SQL y por qué son importantes?.
+  - Tipos de índices: Primary Key, Unique, Normal, Compuesto y FullText.
+  - Crear y eliminar índices con CREATE INDEX y DROP INDEX.
+  - Cómo los índices afectan el rendimiento de las consultas.
+  - Uso de SHOWPLAN_ALL para analizar el plan de ejecución.
+  - Comparación entre Table Scan ❌ vs. Index Seek ✅.
+  - Ejemplos prácticos:
+  - Ejecutamos una consulta SIN índice y analizamos el plan de ejecución.
+  - Creamos un índice y comparamos los resultados.
+  - Explicamos por qué Index Seek es mucho más eficiente.
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
