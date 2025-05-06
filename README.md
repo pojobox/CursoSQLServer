@@ -1,4 +1,4 @@
-# Curso de SQL Server Básico
+# Curso de SQL Server de Básico a Avanzado
 
 ¡Bienvenidos al repositorio oficial del Curso de SQL Server Básico  🎉 Aca vas a encontrar el código fuente y los ejemplos prácticos utilizados a lo largo del curso. Este repositorio está diseñado para complementar los videos de YouTube y facilitar tu aprendizaje de SQL desde cero
 
@@ -64,7 +64,7 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - B) Modificar el tipo de datos de una columna de la tabla Clientes a elección.
   - C) Eliminar una columna de la tabla Clientes a elección.
 
-- **Quiero felicitarte porque acabas determinar el primer módulo de este curso de SQL server, seguí practicando y jugando con lo aprendido y yo te veo en el próximo módulo ;-).**
+- **Quiero felicitarte porque acabas de terminar el primer módulo de este curso de SQL server, seguí practicando y jugando con lo aprendido y yo te veo en el próximo módulo ;-).**
 
 ### BIENVENIDOS AL MODULO INTERMEDIO!!!
 
@@ -116,6 +116,52 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Ejecutamos una consulta SIN índice y analizamos el plan de ejecución.
   - Creamos un índice y comparamos los resultados.
   - Explicamos por qué Index Seek es mucho más eficiente.
+
+- **Clase 07: Vistas en SQL - Parte 1**
+  - Parte Teórica:
+  - ¿Qué es una vista en SQL?
+  - Ventajas y desventajas de usar vistas
+  - Cuándo conviene usarlas
+  - Parte Práctica:
+  - Crear una vista simple
+  - Crear vistas con JOIN
+  - Usar funciones de agregado (SUM, COUNT, etc.) en vistas
+  - Modificar y eliminar vistas
+ 
+- **Clase 08: Vistas en SQL - Parte 2**
+  - Cómo ocultar información sensible con vistas
+  - Crear reportes predefinidos con funciones agregadas (SUM, MONTH, YEAR)
+  - Simplificar consultas complejas con JOIN reutilizando vistas
+ 
+- **Clase 09: Funciones en SQL Parte 1**
+  - Cómo calcular valores con funciones como ABS, ROUND, POWER, SQRT.
+  - Cómo manipular texto usando UPPER, LOWER, SUBSTRING, REPLACE.
+  - Cómo trabajar con fechas usando GETDATE, YEAR, MONTH, DATEDIFF, etc.
+  - Parte Práctica Incluida:
+  - Vamos a ver ejemplos reales directamente en SQL Server, donde aplicamos estas funciones en consultas reales.
+ 
+- **Clase 10: Funciones en SQL Parte 2**
+  - Qué es una función definida por el usuario
+  - Cuáles son los tipos de funciones en SQL Server (Escalares, Table-Valued)
+  - Cómo crear y utilizar funciones escalares
+  - Cómo crear funciones que devuelven tablas
+  - Cómo eliminar funciones personalizadas
+  - Casos prácticos con funciones de nombre completo, cálculo de IVA, y consultas por ID
+ 
+- **Clase 11: Ejercicio Integrador Completo**
+  - Relaciones entre tablas (Claves primarias y foráneas)
+  - Tipos de JOIN: INNER JOIN, LEFT JOIN, etc.
+  - Subconsultas (Subqueries)
+  - Funciones de agregado: SUM, AVG, COUNT, MAX, MIN
+  - Agrupaciones con GROUP BY y filtros con HAVING
+  - Creación y uso de vistas
+  - Funciones definidas por el usuario
+  - Creación de índices para optimización
+
+ - **Proyecto: Base de datos para un sistema de ventas con clientes, empleados, productos y facturación.**
+
+ - **Quiero felicitarte nuevamente porque acabas de terminar el módulo intermedio, seguí practicando y jugando con lo aprendido y yo te veo en el próximo módulo ;-).**
+
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Martes por la tarde, No te la pierdas!!*
